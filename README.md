@@ -1,4 +1,5 @@
-# ScrapGit #
+# ScraGit #
+
 ![FIGLET](https://imgur.com/p6UNh64.png)
 
 It's a simple tool permitting to extract emails from websites and search for a special query in github commits using **Github Search API**
