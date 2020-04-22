@@ -48,3 +48,5 @@ Now you only have to clone the project and start scraping \o/
 + Improve Github Search API usage
 
 + Extract other informations from websites
+
++ Add recursive option in extracting
